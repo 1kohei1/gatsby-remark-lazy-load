@@ -12,5 +12,8 @@
     "markdown"
   ],
   "author": "Kohei Arai",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "unist-util-visit-parents": "^2.0.1"
+  }
 }
