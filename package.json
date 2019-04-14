@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-remark-lazy-load",
+  "version": "1.0.0",
+  "description": "This plugin lazy loads image processed by gatsby-remark-images plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gatsby-remark-image",
+    "lazyload",
+    "markdown"
+  ],
+  "author": "Kohei Arai",
+  "license": "ISC"
+}
